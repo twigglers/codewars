@@ -1,4 +1,5 @@
 package kata
+
 import (
   "strconv"
   "math/big"
